@@ -1,0 +1,4 @@
+.venv
+venv
+core/__pycache__
+core/__pycache__/image_engine.cpython-312.pyc
